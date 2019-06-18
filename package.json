@@ -1,0 +1,14 @@
+{
+  "name": "react_component_generator",
+  "version": "1.0.0",
+  "main": "generator.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "arun",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "js-yaml": "^3.13.1"
+  }
+}
