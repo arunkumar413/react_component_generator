@@ -9,11 +9,11 @@ However, if you're interested to make this work with class based components plea
 
 ### What does this tool do?
 
-This small tool helps you in saving time by creating component files for your react applicaton. You simply need to write a small specification in YAML format describing the basic structre of each compnent such as name, state variables and handler functions. The tool, when run, will turn the specification into component files with specified boilerplate code.
+This small tool helps you in saving time by creating component files for your react applicaton. You simply need to write a small specification in YAML format describing the basic structure of each compnent such as name, state variables and handler functions. The tool, when run, will turn the specification into component files with specified boilerplate code.
 
 ### Inspiration
 
-This tools draws it's inspiration from the Open API Specification (https://swagger.io/docs/specification/about/) which helps us to design and develop most the backend REST API. 
+This tools draws it's inspiration from the Open API Specification (https://swagger.io/docs/specification/about/) which helps us to design and develop most of the backend REST API. 
 
 When I started learning reactjs, I realized that it's cumbursome and routine to write/create component files by hand everytime we create a new project. I observed some of the common patterns in reactjs programming and decided to convert those patterns into a specification on the lines of Open API specification. Currently the tool is very basic in nature and I believe there is a lot of scope for evolution. 
 

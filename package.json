@@ -5,10 +5,15 @@
   "scripts": {
     "test": "npm test"
   },
+  "keywords": ["reaact","reactjs", "nodejs", "react-tools","componet generator"],
   "author": "arun",
   "license": "ISC",
-  "description": "",
+  "description": "A simple utility tool to create react component files with some boilerplate code",
   "dependencies": {
     "js-yaml": "^3.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arunkumar413/react_component_generator.git"
   }
 }
